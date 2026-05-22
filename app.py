@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 
 st.set_page_config(page_title="夏令营进度看板", layout="wide")
-st.title("🎓 保研夏令营进度管理看板")
+st.title("🎓 27夏令营信息管理空间")
 st.caption("基于 JSONBin 独立云端同步 · 支持卡片流内嵌修改")
 
 # 1. 配置你的云端密钥
